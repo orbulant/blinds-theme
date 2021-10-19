@@ -3,8 +3,14 @@
 ## A colorblind (deuterianopia) friendly, dark, material designed theme aimed for increased readability, and productivity.
 
 * Based on concrete scientific research by [Paul Tol's Bright Qualitative Colour Scheme (2nd April 2021)](https://personal.sron.nl/~pault/#fig:scheme_bright)
-* More colour pallettes will be added soon ~
-* A more refined theme will be added soon ~
+<br/>
+<br/>
+
+## More colour pallettes will be added soon ~
+<br/>
+
+## A light version will be added soon! ~
+<br/>
 
 ### For more information regarding colourblindess colouring:
 * [David Nichols's Coloring for Colorblindess](https://davidmathlogic.com/colorblind/#%23332288-%23117733-%2344AA99-%2388CCEE-%23DDCC77-%23CC6677-%23AA4499-%23882255)
