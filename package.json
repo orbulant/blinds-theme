@@ -1,0 +1,28 @@
+{
+    "name": "blinds-theme",
+    "displayName": "Blinds Theme",
+    "description": "A colourblind friendly, minimal, robust, no-frills theme aimed for increased readability, better type-facing experience, and a general \"stop hurting my eyes~!\" & \"i wanna really see the code well on my screen\" theme! ",
+    "version": "0.4.0",
+    "publisher": "tankashing",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Blinds (Paul Tol's Bright Pallette)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Blinds (Paul Tol's Bright Pallette)-color-theme.json"
+            },
+            {
+                "label": "Version 2 Blinds (Paul Tol's Bright Pallette)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Version 2 of Blinds (Paul Tol's Bright Pallette)-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icon/Anatom5-People-Disability-Blind.ico"
+}
