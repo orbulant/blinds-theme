@@ -1,6 +1,6 @@
 # Blinds
 ![Paul Tol's Qualitative Colour Scheme](https://personal.sron.nl/~pault/images/scheme_bright.png)
-## A colorblind (deuterianopia) friendly, minimal, robust, no-frills theme aimed for increased readability, and productivity.
+## A colorblind (deuterianopia) friendly, dark, material designed theme aimed for increased readability, and productivity.
 
 * Based on concrete scientific research by [Paul Tol's Bright Qualitative Colour Scheme (2nd April 2021)](https://personal.sron.nl/~pault/#fig:scheme_bright)
 * More colour pallettes will be added soon ~

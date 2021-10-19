@@ -1,7 +1,7 @@
 {
     "name": "blinds-theme",
     "displayName": "Blinds Theme",
-    "description": "A colourblind friendly, minimal, robust, no-frills theme aimed for increased readability, better type-facing experience, and a general \"stop hurting my eyes~!\" & \"i wanna really see the code well on my screen\" theme! ",
+    "description": "A colorblind (deuterianopia) friendly, dark, material designed theme aimed for increased readability, and productivity.",
     "version": "0.4.0",
     "publisher": "tankashing",
     "engines": {
@@ -16,11 +16,6 @@
                 "label": "Blinds (Paul Tol's Bright Pallette)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Blinds (Paul Tol's Bright Pallette)-color-theme.json"
-            },
-            {
-                "label": "Version 2 Blinds (Paul Tol's Bright Pallette)",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Version 2 of Blinds (Paul Tol's Bright Pallette)-color-theme.json"
             }
         ]
     },
