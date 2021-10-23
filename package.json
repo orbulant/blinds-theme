@@ -23,5 +23,6 @@
             }
         ]
     },
-    "icon": "icon/Anatom5-People-Disability-Blind.ico"
+    "icon": "icon/Anatom5-People-Disability-Blind.ico",
+    "license": "GPL-3.0"
 }
