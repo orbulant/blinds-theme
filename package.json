@@ -17,9 +17,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Blinds (Paul Tol's Bright Pallette)",
+                "label": "Blinds (Default Dark)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Blinds (Paul Tol's Bright Pallette)-color-theme.json"
+                "path": "./themes/blinds-theme-default-dark.json"
             }
         ]
     },
