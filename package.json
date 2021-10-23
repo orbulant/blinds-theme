@@ -19,7 +19,7 @@
             {
                 "label": "Blinds (Default Dark)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/blinds-theme-default-dark.json"
+                "path": "./themes/blinds-color-theme.json"
             }
         ]
     },
