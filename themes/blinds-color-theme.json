@@ -123,7 +123,7 @@
       "name": "Comment Markup Link",
       "scope": "comment markup.link",
       "settings": {
-        "foreground": "#5e5e5e"
+        "foreground": "#ff0000"
       }
     },
     {
@@ -1706,7 +1706,7 @@
         "beginning.punctuation.definition.list.markdown.xi"
       ],
       "settings": {
-        "foreground": "#5e5e5e"
+        "foreground": "#ff0000"
       }
     },
     {
@@ -1751,7 +1751,7 @@
         "punctuation.definition.tag.xi"
       ],
       "settings": {
-        "foreground": "#5e5e5e"
+        "foreground": "#ff0000"
       }
     },
     {
@@ -1790,14 +1790,14 @@
       "scope": "comment, punctuation.definition.comment",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#5e5e5e"
+        "foreground": "#ff0000"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Quote",
       "scope": "markup.quote.markdown",
       "settings": {
-        "foreground": "#5e5e5e"
+        "foreground": "#ff0000"
       }
     },
     {
@@ -1847,7 +1847,7 @@
   "colors": {
     "foreground": "#CECECE",
     "focusBorder": "#004488",
-    "selection.background": "#333333",
+    "selection.background": "#4f4f4f",
     "scrollbar.shadow": "#0000004d",
     "activityBar.foreground": "#ffffff",
     "activityBar.background": "#222222",
@@ -1909,17 +1909,17 @@
     "button.secondaryHoverBackground": "#3f3f3f",
     "input.background": "#121212",
     "input.border": "#00000000",
-    "input.foreground": "#ffffff",
-    "inputOption.activeBackground": "#86868680",
-    "inputOption.activeBorder": "#fbfbfb99",
-    "inputOption.activeForeground": "#ffffff",
-    "input.placeholderForeground": "#797979",
+    "input.foreground": "#E2E2E2",
+    "inputOption.activeBackground": "#FFFFFF1F",
+    "inputOption.activeBorder": "#00000000",
+    "inputOption.activeForeground": "#F3F3F3",
+    "input.placeholderForeground": "#808080",
     "textLink.foreground": "#33bbee",
     "editor.background": "#282828",
     "editor.foreground": "#bbbbbb",
     "editorLineNumber.foreground": "#FFFFFF21",
-    "editorCursor.foreground": "#004488",
-    "editorCursor.background": "#ffffff",
+    "editorCursor.foreground": "#d9d9d9",
+    "editorCursor.background": "#303030",
     "editor.selectionBackground": "#2C4061",
     "editor.inactiveSelectionBackground": "#FFFFFF20",
     "editorWhitespace.foreground": "#FFFFFF14",
@@ -1928,7 +1928,7 @@
     "editor.findMatchBackground": "#386496",
     "editor.findMatchBorder": "#4598F7",
     "editor.findMatchHighlightBackground": "#38649663",
-    "editor.findMatchHighlightBorder": "#666666",
+    "editor.findMatchHighlightBorder": "#ffffff00",
     "editor.findRangeHighlightBackground": "#343946",
     "editor.findRangeHighlightBorder": "#343946",
     "editor.rangeHighlightBackground": "#37466B",
@@ -1936,11 +1936,10 @@
     "editor.hoverHighlightBackground": "#ffffff15",
     "editor.wordHighlightStrongBackground": "#004972b8",
     "editor.wordHighlightBackground": "#575757b8",
-    "editor.wordHighlightBorder": "#585858",
     "editor.lineHighlightBackground": "#ffffff0f",
     "editor.lineHighlightBorder": "#282828",
     "editorLineNumber.activeForeground": "#A0A0A0",
-    "editorLink.activeForeground": "#2685ff",
+    "editorLink.activeForeground": "#0093ff",
     "editorIndentGuide.background": "#ffffff0f",
     "editorIndentGuide.activeBackground": "#ffffff66",
     "editorRuler.foreground": "#FFFFFF14",
@@ -2073,10 +2072,10 @@
     "peekViewTitleLabel.foreground": "#C9C9C9",
     "icon.foreground": "#CECECE",
     "checkbox.background": "#121212",
-    "checkbox.foreground": "#ffffff",
+    "checkbox.foreground": "#E2E2E2",
     "checkbox.border": "#00000000",
     "dropdown.background": "#121212",
-    "dropdown.foreground": "#ffffff",
+    "dropdown.foreground": "#E2E2E2",
     "dropdown.border": "#00000000",
     "minimapGutter.addedBackground": "#228833",
     "minimapGutter.modifiedBackground": "#004488",
