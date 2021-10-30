@@ -2,7 +2,7 @@
     "name": "blinds-theme",
     "displayName": "Blinds Theme",
     "description": "A colorblind (deuterianopia) friendly, dark, material designed theme aimed for increased readability, and productivity.",
-    "version": "3.2.0",
+    "version": "3.3.0",
     "publisher": "tankashing",
     "engines": {
         "vscode": "^1.60.0"
