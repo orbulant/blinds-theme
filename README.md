@@ -1,6 +1,14 @@
 # Blinds
 
+<div style="text-align: center">
+<p align="center">
+
 ![Paul Tol's Qualitative Colour Scheme](https://personal.sron.nl/~pault/images/scheme_bright.png)
+
+![GPL](https://img.shields.io/github/license/orbulant/blinds-theme?style=for-the-badge) ![Downloads from Marketplace](https://img.shields.io/visual-studio-marketplace/d/tankashing.blinds-theme?color=%2344FFC3&style=for-the-badge)
+
+</p>
+</div>
 
 ## Description
 
@@ -27,15 +35,8 @@ most importantly...
 
 </br>
 
-<center>
-
-![GPL](https://img.shields.io/github/license/orbulant/blinds-theme?style=for-the-badge) ![Downloads from Marketplace](https://img.shields.io/visual-studio-marketplace/d/tankashing.blinds-theme?color=%2344FFC3&style=for-the-badge)
-
-</center>
-
-</br>
-
-<center>
+<div style="text-align: center">
+<p align="center">
 
 ## About Me
 
@@ -49,5 +50,6 @@ most importantly...
 
 ![YouTube](https://img.shields.io/youtube/channel/views/UCgNuAdhsibJ5PXng1_93Nng?style=for-the-badge)
 
-</center>
+</p>
+</div>
 
