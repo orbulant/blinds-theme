@@ -5,7 +5,7 @@
 
 ![Paul Tol's Qualitative Colour Scheme](https://personal.sron.nl/~pault/images/scheme_bright.png)
 
-![GPL](https://img.shields.io/github/license/orbulant/blinds-theme?style=for-the-badge) ![Downloads from Marketplace](https://img.shields.io/visual-studio-marketplace/d/tankashing.blinds-theme?color=%2344FFC3&style=for-the-badge)
+![GPL](https://img.shields.io/github/license/orbulant/blinds-theme?style=for-the-badge) <a href="https://marketplace.visualstudio.com/items?itemName=tankashing.blinds-theme"> ![Downloads from Marketplace](https://img.shields.io/visual-studio-marketplace/d/tankashing.blinds-theme?color=%2344FFC3&style=for-the-badge) </a>
 
 </p>
 </div>
@@ -44,11 +44,25 @@ most importantly...
 
 **Tan Ka-Shing**
 
+
+
+<a href="https://www.twitter.com/cuhshing">
+
 ![Twitter](https://img.shields.io/twitter/follow/cuhshing?style=for-the-badge)
 
-![GitHub](https://img.shields.io/github/followers/orbulant?style=for-the-badge)
+</a>
 
-![YouTube](https://img.shields.io/youtube/channel/views/UCgNuAdhsibJ5PXng1_93Nng?style=for-the-badge)
+<a href="https://github.com/orbulant">
+
+![GitHub followers](https://img.shields.io/github/followers/orbulant?label=GitHub&logo=GitHub&style=for-the-badge)
+
+</a>
+
+<a href="https://www.youtube.com/channel/UCgNuAdhsibJ5PXng1_93Nng">
+
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCgNuAdhsibJ5PXng1_93Nng?label=YouTube&logo=YouTube&style=for-the-badge)
+
+</a>
 
 </p>
 </div>
