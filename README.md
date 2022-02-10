@@ -40,15 +40,12 @@ most importantly...
 
 ## About Me
 
-<img src="https://media-exp1.licdn.com/dms/image/C5603AQGIlkYi6VuvTQ/profile-displayphoto-shrink_800_800/0/1603808050235?e=1638403200&v=beta&t=4ByVimRolCN_F0TU-GhSHTHE2yNWG08b0P-AClWLZVg" width="128">
-
 **Tan Ka-Shing**
 
 
+<a href="https://www.twitter.com/tech_shing">
 
-<a href="https://www.twitter.com/cuhshing">
-
-![Twitter](https://img.shields.io/twitter/follow/cuhshing?style=for-the-badge)
+![Twitter](https://img.shields.io/twitter/follow/tech_shing?style=for-the-badge)
 
 </a>
 
