@@ -20,7 +20,13 @@
                 "label": "Blinds (Default Dark)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/blinds-color-theme.json"
+            },
+            {
+                "label": "Blinds (Darker)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/blinds-darker-color-theme.json"
             }
+            
         ]
     },
     "icon": "icon/Anatom5-People-Disability-Blind.ico",
