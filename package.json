@@ -2,7 +2,7 @@
     "name": "blinds-theme",
     "displayName": "Blinds Theme",
     "description": "A colorblind (deuterianopia) friendly, dark, material designed theme aimed for increased readability, and productivity.",
-    "version": "3.4.0",
+    "version": "4.0.0",
     "publisher": "tankashing",
     "engines": {
         "vscode": "^1.60.0"
@@ -26,7 +26,6 @@
                 "uiTheme": "vs-dark",
                 "path": "./themes/blinds-darker-color-theme.json"
             }
-            
         ]
     },
     "icon": "icon/Anatom5-People-Disability-Blind.ico",
