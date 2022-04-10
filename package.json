@@ -25,6 +25,11 @@
                 "label": "Blinds (Darker)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/blinds-darker-color-theme.json"
+            },
+            {
+                "label": "Blinds (Light | Bang Wong's Palette)",
+                "uiTheme": "vs",
+                "path": "./themes/blinds-light-color-theme.json"
             }
         ]
     },
