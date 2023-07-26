@@ -2,7 +2,7 @@
     "name": "blinds-theme",
     "displayName": "Blinds Theme",
     "description": "A colorblind (deuterianopia) friendly, dark, material designed theme aimed for increased readability, and productivity.",
-    "version": "4.1.0",
+    "version": "5.0.0",
     "publisher": "tankashing",
     "engines": {
         "vscode": "^1.60.0"
@@ -27,7 +27,7 @@
                 "path": "./themes/blinds-darker-color-theme.json"
             },
             {
-                "label": "Blinds (Light | Bang Wong's Palette)",
+                "label": "Blinds (Light)",
                 "uiTheme": "vs",
                 "path": "./themes/blinds-light-color-theme.json"
             }
