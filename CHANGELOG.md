@@ -1,13 +1,6 @@
 # Change Log
 
-All notable changes to the "blinds-theme" extension will be documented in this file.
+## Version 5.2.0
+This is hopefully the final version of the theme. The darker variant is removed as it makes no sense to have a default one that is too close to it.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-- More colour palletes
-- A light version
-- Different coloured accents for dark theme
-
-## [2.5.0] - 23/10/2021
-- Latest Release
+Both the light and dark variant now should be complete.
