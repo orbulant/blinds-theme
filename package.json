@@ -1,12 +1,27 @@
 {
   "name": "blinds-theme",
+  "author": "Tan Ka-Shing (orbulant)",
   "displayName": "Blinds Theme",
   "description": "A colorblind (deuterianopia) friendly, dark, material designed theme aimed for increased readability, and productivity.",
-  "version": "6.0.0",
+  "version": "7.0.0",
   "publisher": "tankashing",
   "engines": {
-    "vscode": "^1.60.0"
+    "vscode": "^1.93.0"
   },
+  "bugs": {
+    "url": "https://github.com/orbulant/blinds-theme/issues"
+  },
+  "homepage": "https://github.com/orbulant/blinds-theme#readme",
+  "keywords": [
+    "vscode",
+    "theme",
+    "colorblind",
+    "colourblind",
+    "dark",
+    "material",
+    "dyslexic",
+    "solarized"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/orbulant/blinds-theme"
@@ -19,12 +34,12 @@
       {
         "label": "Blinds (Default Dark)",
         "uiTheme": "vs-dark",
-        "path": "./themes/blinds-color-theme.json"
+        "path": "./themes/blinds-dark.json"
       },
       {
-        "label": "Blinds (Light)",
+        "label": "Blinds (Solarized)",
         "uiTheme": "vs",
-        "path": "./themes/blinds-light-color-theme.json"
+        "path": "./themes/blinds-solarized.json"
       }
     ]
   },
