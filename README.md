@@ -45,7 +45,9 @@ most importantly...
 **Tan Ka-Shing**
 
 <a href="https://www.linkedin.com/in/tankashing/">
-LinkedIn Profile
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)
+
 </a>
 
 <a href="https://github.com/orbulant">
