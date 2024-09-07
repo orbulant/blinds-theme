@@ -1,38 +1,33 @@
 {
-    "name": "blinds-theme",
-    "displayName": "Blinds Theme",
-    "description": "A colorblind (deuterianopia) friendly, dark, material designed theme aimed for increased readability, and productivity.",
-    "version": "4.1.0",
-    "publisher": "tankashing",
-    "engines": {
-        "vscode": "^1.60.0"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/orbulant/blinds-theme"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Blinds (Default Dark)",
-                "uiTheme": "vs-dark",
-                "path": "./themes/blinds-color-theme.json"
-            },
-            {
-                "label": "Blinds (Darker)",
-                "uiTheme": "vs-dark",
-                "path": "./themes/blinds-darker-color-theme.json"
-            },
-            {
-                "label": "Blinds (Light | Bang Wong's Palette)",
-                "uiTheme": "vs",
-                "path": "./themes/blinds-light-color-theme.json"
-            }
-        ]
-    },
-    "icon": "icon/Anatom5-People-Disability-Blind.ico",
-    "license": "GPL-3.0"
+  "name": "blinds-theme",
+  "displayName": "Blinds Theme",
+  "description": "A colorblind (deuterianopia) friendly, dark, material designed theme aimed for increased readability, and productivity.",
+  "version": "6.0.0",
+  "publisher": "tankashing",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orbulant/blinds-theme"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blinds (Default Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blinds-color-theme.json"
+      },
+      {
+        "label": "Blinds (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/blinds-light-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon/Anatom5-People-Disability-Blind.ico",
+  "license": "GPL-3.0"
 }

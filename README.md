@@ -21,14 +21,16 @@ most importantly...
 </br>
 
 ### Key-Features of Blinds
-* **Colorblind/Colourblind friendly** (especially for Deuterianopia a.k.a. Red-Green Colorblindness)
-* Aimed for a **good and high** *contrast ratio*
-* _Aesthetically pleasing_ while being functional
-* Helps with dyslexia (for me at least)
+
+- **Colorblind/Colourblind friendly** (especially for Deuterianopia a.k.a. Red-Green Colorblindness)
+- Aimed for a **good and high** _contrast ratio_
+- _Aesthetically pleasing_ while being functional
+- Helps with dyslexia (for me at least)
 
 </br>
 
 ### Theme Basis
+
 1. Based on concrete scientific research by [Paul Tol's Bright Qualitative Colour Scheme (2nd April 2021)](https://personal.sron.nl/~pault/#fig:scheme_bright)
 
 2. [David Nichols's Coloring Guide for Colorblindness](https://davidmathlogic.com/colorblind/#%23332288-%23117733-%2344AA99-%2388CCEE-%23DDCC77-%23CC6677-%23AA4499-%23882255)
@@ -42,10 +44,9 @@ most importantly...
 
 **Tan Ka-Shing**
 
+<a href="https://www.linkedin.com/in/tankashing/">
 
-<a href="https://www.twitter.com/tech_shing">
-
-![Twitter](https://img.shields.io/twitter/follow/tech_shing?style=for-the-badge)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)
 
 </a>
 
@@ -63,4 +64,3 @@ most importantly...
 
 </p>
 </div>
-
