@@ -3,7 +3,7 @@
   "author": "Tan Ka-Shing (orbulant)",
   "displayName": "Blinds Theme",
   "description": "A colorblind (deuterianopia) friendly, dark, material designed theme aimed for increased readability, and productivity.",
-  "version": "7.0.0",
+  "version": "7.1.0",
   "publisher": "tankashing",
   "engines": {
     "vscode": "^1.93.0"
